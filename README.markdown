@@ -5,8 +5,8 @@ This wiki page is developed by students of the Branch IEEE
 Maintainers:
 -----------
 * Renan Prata - Author
-* Daniel Gaspar - Author
-* Leonardo Monteiro - Author
+* Daniel Gaspar - Collaborator
+* Leonardo Monteiro - Collaborator
 * Carlos Henrique - Collaborator
 
 TODO:
