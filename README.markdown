@@ -6,6 +6,7 @@ Maintainers:
 -----------
 * Renan Prata - Author
 * Daniel Gaspar - Author
+* Leonardo Monteiro - Author
 
 TODO:
 ----
